@@ -1,2 +1,2 @@
 # Spatial-Housing-With-XAI
-A spatially-aware XGBoost pipeline that splits data by geography instead of at random, explains its predictions with SHAP
+Spatially-aware model for California house price prediction: XGBoost with geographic train/test splitting, SHAP explainability, and GeoConformal prediction intervals.
